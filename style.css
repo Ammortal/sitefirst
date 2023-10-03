@@ -1,0 +1,15 @@
+p {
+ padding: 15px;
+ margin: 15px;
+ background-color:red;
+}
+
+.custom-class {
+ background-color: #42b0ff;
+ border: 4px double black;
+}
+
+#custom-id {
+ background-color: yellow;
+ border: 4px outset #afdeff;
+}
